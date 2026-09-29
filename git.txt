@@ -1,0 +1,12 @@
+https://github.com/sallybato/padroes-projetos-av-rebecca-beccari.git
+git init
+git add .
+git commit -m "meu commit"
+git branch -M main
+git remote add origin https://github.com/sallybato/padroes-projetos-av-rebecca-beccari.git
+git push -u origin main
+
+atualizar infos:
+git add .
+git commit -m "o que eu fiz"
+git push
